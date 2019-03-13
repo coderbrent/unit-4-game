@@ -1,0 +1,60 @@
+
+    .display-1 {
+        background-color: #777;
+        color: whitesmoke;
+    }
+
+    .red {
+        color: indianred;
+    }
+
+    .headfont {
+        color: #444;
+    }
+
+    .gem-back {
+        background-color: #cccccc;
+        color: white;
+    }
+
+    .bkgr {
+        background-color: whitesmoke;
+    }
+
+    .p {
+        color: #888;
+        font-size: small;
+    }
+
+    img:hover {
+        box-shadow: 3px 3px 3px 10px lightsteelblue;
+    }
+
+    body {
+        background-color: darkgrey;
+    }
+
+    #compCrystalCounter {
+        font-weight: 900;
+        font-size: 96px;
+        text-align: center;
+    }
+
+    #userCrystalCounter {
+        font-weight: 900;
+        color: whitesmoke;
+        font-size: 96px;
+        text-align: center;
+    }
+
+    .blue {
+        background-color: lightsteelblue;
+    }
+
+    .grey {
+        background-color: rgb(59, 59, 59);
+    }
+
+    .whitesmoke {
+        color: whitesmoke;
+    }
